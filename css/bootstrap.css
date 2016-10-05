@@ -229,7 +229,9 @@ th {
     max-width: 100% !important;
   }
   /*added some code for padding and margin for text on bio page*/
-  .bio-text{margin:5px;
+  .bio-text{
+    float:left;
+    margin:5px;
     padding:5px;
     color:#000;
     font:16px;
