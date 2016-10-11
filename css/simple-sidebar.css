@@ -37,11 +37,9 @@
     margin-left: -250px;
     overflow-y: auto;
     background: #009;
-
-    background-image: url(images/nick1.jpg);
-    background-position: bottom;
+background: url(images/nick.jpg);
+    background-size: contain;
     background-repeat: no-repeat;
-    padding: 15px;
 }
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
