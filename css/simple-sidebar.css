@@ -7,6 +7,9 @@
  body {
     overflow-x: hidden;
  }
+.carousel-caption{
+ color: #ff0;
+}
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
